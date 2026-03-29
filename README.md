@@ -8,8 +8,8 @@
 
 * 💼 SDE-I at Highpolar Software
 * 🧠 Passionate about building scalable web & mobile applications
-* ⚡ 3+ years of experience in modern frontend development
-* 🤖 Exploring AI integrations (LLMs, chat apps, document Q&A)
+* ⚡ 4 years of experience in modern frontend development
+* 🤖 AI integrations (LLMs)
 * 🌍 Based in Uttarakhand, India
 
 ---
