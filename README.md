@@ -23,6 +23,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **State Management**
 
@@ -45,7 +46,12 @@
 **AI Skills**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logo=pinecone&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00C7B7?style=for-the-badge&logo=probot&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=for-the-badge&logo=airflow&logoColor=white)
 
 ---
 
