@@ -1,57 +1,59 @@
 # 👋 Hi, I'm Shubham Bhandari
 
-🚀 Frontend Developer | React | Next.js | React Native | AI Integration
+🚀 **Full Stack AI Engineer | React | Next.js | Node.js | Agentic AI**
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 💼 SDE-I at Highpolar Software
-* 🧠 Passionate about building scalable web & mobile applications
-* ⚡ 4 years of experience in modern frontend development
-* 🤖 AI integrations (LLMs)
+* ⚡ 4 years of experience building modern web and mobile applications
+* 🌐 Building scalable applications with **React, Next.js, React Native & Node.js**
+* 🤖 Working with **Generative AI, Agentic AI, RAG & AI Agents**
+* 🧠 Building AI applications using **LangChain, LangGraph & MCP**
 * 🌍 Based in Uttarakhand, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Frontend**
+## 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**State Management**
+---
 
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![MobX State Tree](https://img.shields.io/badge/MobX--State--Tree-FF7102?style=for-the-badge&logo=mobx&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+## ⚙️ Backend & Database
 
-**UI & Styling**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+---
 
-**Other Tools**
+## 🤖 AI & Agentic AI
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-**AI Skills**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E40C9?style=for-the-badge&logo=probot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logo=pinecone&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00C7B7?style=for-the-badge&logo=probot&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=for-the-badge&logo=airflow&logoColor=white)
+
+---
+
+## 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -59,10 +61,11 @@
 
 ### 🤖 AI-Powered Document Chat Assistant
 
-* Built an AI-powered chat application using LLMs
-* Supports **PDF & image uploads** for contextual Q&A
-* Real-time chat UI with smooth UX
-* Intelligent prompt handling and response generation
+* Built an AI-powered document chat application using **LLMs and RAG**
+* Supports **PDF & image uploads** for contextual question answering
+* Implemented document retrieval and context-aware response generation
+* Built a real-time conversational UI with **React / Next.js**
+* Integrated intelligent prompt handling for accurate AI responses
 
 ---
 
@@ -70,16 +73,21 @@
 
 ### 🛍️ B2B E-commerce Platform
 
-* Developed bulk ordering system and product management dashboards
-* Implemented wishlist, cart, and seller workflows
+* Developed bulk ordering and product management workflows
+* Implemented wishlist, cart, seller workflows, and interactive dashboards
+* Built scalable frontend architecture using modern React technologies
 
 ### 🎁 Scratch Card Rewards App
 
-* React Native app with animations, rewards, and push notifications
+* Built a **React Native** rewards application
+* Implemented interactive scratch-card animations and reward workflows
+* Integrated push notifications and mobile-specific functionality
 
-### 🩺 Doctor-Patient App
+### 🩺 Doctor-Patient Platform
 
-* Video/audio consultation, booking system, and smart assessment forms
+* Worked on a healthcare platform supporting doctor-patient interactions
+* Implemented video/audio consultation and appointment booking
+* Developed dynamic assessment forms and user workflows
 
 ---
 
@@ -89,6 +97,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iShubham-Sams&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub stats" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iShubham-Sams&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iShubham-Sams&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -105,5 +114,4 @@
 
 ## 🔥 Fun Fact
 
-I love building products that combine **great UI + smart AI** 🚀
-
+I love building products that combine **great UI + scalable backend systems + intelligent AI agents** 🚀
